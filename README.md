@@ -6,6 +6,7 @@ A novel deep network with triangular-star spatial-spectral fusion encoding and e
 The framework of this work offers a visual overview that delineates the entire flow from problem statement to methodology, and experimental setup.
 
 **Quantitative Comparison**
+
 Quantitative comparison with state-of-the-art methods on the CTA119 dataset
 and the ASOCA dataset The best results are in bold, and the second-best results are
 underlined.
