@@ -22,12 +22,19 @@ for better visual comparison.
 **Data preparation** Your datasets directory tree should be look like this:
 
 **data**
-├── npy
-    ├── img
-        ├── 1.npy
-        ├── 2.npy
-        └── ...
-    └── mask
-        ├── 1.npy
-        ├── 2.npy
-        └── ...
+        ├── npy
+            ├── img
+                ├── 1.npy
+                ├── 2.npy
+                └── ...
+            └── mask
+                ├── 1.npy
+                ├── 2.npy
+                └── ...
+
+**Training**
+python train.py
+
+**Testing**
+python test.py
+
