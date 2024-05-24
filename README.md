@@ -20,7 +20,17 @@ for better visual comparison.
 
 **Usage**
 
-**Data preparation** Your datasets directory tree should be look like this:
+**Data preparation** 
+
+**ASOCA dataset:**
+
+`https://asoca.grand-challenge.org`
+
+**TubeTK dataset:**
+
+`https://public.kitware.com/Wiki/TubeTK/Data`
+
+Your datasets directory tree should be look like this:
 
 **data**
        
