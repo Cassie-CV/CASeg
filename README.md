@@ -23,18 +23,28 @@ for better visual comparison.
 
 **data**
         ├── npy
+        
             ├── img
+            
                 ├── 1.npy
+                
                 ├── 2.npy
+                
                 └── ...
+                
             └── mask
+            
                 ├── 1.npy
+                
                 ├── 2.npy
+                
                 └── ...
 
 **Training**
-python train.py
+
+`python train.py`
 
 **Testing**
-python test.py
+
+`python test.py`
 
